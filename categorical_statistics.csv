@@ -1,0 +1,6 @@
+,data_type,most_frequent_val,most_frequent_value_frequency,unique_num,category_frequency
+Gender,categorical,Female,4080208,2,"{'Female': 4080208, 'Male': 3920566}"
+Race,categorical,White,3519522,6,"{'White': 3519522, 'Hispanic': 2319159, 'Black': 1200976, 'Two-or-more': 400991, 'Asian': 400754, 'Other': 159372}"
+ParentalEducation,categorical,HS,2601118,4,"{'HS': 2601118, 'SomeCollege': 2400823, 'Bachelors+': 1500310, '<HS': 1498523}"
+SchoolType,categorical,Public,6760300,2,"{'Public': 6760300, 'Private': 1240474}"
+Locale,categorical,Suburban,3120675,4,"{'Suburban': 3120675, 'City': 2479888, 'Rural': 1520189, 'Town': 880022}"
