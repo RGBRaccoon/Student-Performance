@@ -1,0 +1,9 @@
+Feature,Importance
+ParentalEducation,0.5688318119779052
+SchoolType,0.16302370913662853
+SES_Quartile,0.11908295102777335
+InternetAccess,0.0916124537357068
+Locale,0.05744907412198613
+Romantic,0.0
+Extracurricular,0.0
+ParentSupport,0.0
